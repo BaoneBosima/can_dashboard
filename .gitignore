@@ -1,0 +1,18 @@
+# STM32CubeIDE project ignores
+.build/
+Debug/
+Release/
+*.launch
+*.log
+*.bak
+*.o
+*.d
+*.i
+*.elf
+*.bin
+*.hex
+.project
+.cproject
+.settings/
+.vscode/
+MX_*
